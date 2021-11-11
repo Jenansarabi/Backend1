@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BE1",
+    "\\BE1\\Backend1",
+    "\\BE1\\Backend1\\Backend1",
+    "\\BE1\\Backend1\\WebApi\\Controllers",
+    "\\BE1\\Backend1\\WebApi\\Migrations",
+    "\\BE1\\Backend1\\WebApi\\Models"
+  ],
+  "SelectedNode": "\\BE1\\Backend1\\Backend1.sln",
+  "PreviewInSolutionExplorer": false
+}
