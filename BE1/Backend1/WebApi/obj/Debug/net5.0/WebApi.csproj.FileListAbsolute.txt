@@ -136,3 +136,5 @@ C:\Users\sarab\Desktop\backend1\BE1\Backend1\WebApi\bin\Debug\net5.0\runtimes\wi
 C:\Users\sarab\Desktop\backend1\BE1\Backend1\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\sarab\Desktop\backend1\BE1\Backend1\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\sarab\Desktop\backend1\BE1\Backend1\WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\sarab\Desktop\backend1\BE1\Backend1\WebApi\obj\Debug\net5.0\WebApi.Properties.Resources.resources
+C:\Users\sarab\Desktop\backend1\BE1\Backend1\WebApi\obj\Debug\net5.0\WebApi.csproj.GenerateResource.cache

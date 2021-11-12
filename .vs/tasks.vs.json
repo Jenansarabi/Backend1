@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Models",
+      "appliesTo": "BE1/Backend1/WebApi/Models/",
+      "type": "launch"
+    }
+  ]
+}
